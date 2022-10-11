@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+h1 {
+    font-family: 'Montserrat';
+    font-weight: 700;
+}
+p{
+    font-family: 'Montserrat';
+    font-weight: 500;
+}
+.container{
+    width: 350px;
+    height: 550px;
+    padding: 30px;
+    background-color: #e28525;
+}
+
+.container h1{
+    padding-top: 30px;
+    color: white;
+}
+
+.container p{
+    padding-top: 30px;
+    color: white;
+    padding-bottom: 250px;
+    width: 315px;
+}
+
+.container button{
+    padding: 15px 50px;
+    border-radius: 50px;
+    color: #e28525;
+    border: 1px solid white; 
+    font-weight: bold;
+    }
+
+    .button{
+        display: flex;
+        align-items: center;
+    }
+
+    section{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        padding-top: 100px;
+        flex-wrap: wrap;
+    }
+
+    .container{
+    width: 350px;
+    height: 550px;
+    padding: 30px;
+    background-color: orange;
+}
+
+h1{
+    padding-top: 30px;
+    color: white;
+}
+
+p{
+    padding-top: 30px;
+    color: white;
+    padding-bottom: 250px;
+    width: 315px;
+}
+
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+button{
+    padding: 15px 50px;
+    border-radius: 50px;
+    color: orange;
+    border: 1px solid white; 
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.4s;
+    }
+    button:hover{
+        background-color: black;
+        color: rgb(161, 59, 59);
+        }
+    .button{
+        display: flex;
+        align-items: center;
+    }
+
+    .container-suvs{
+        width: 350px;
+        height: 550px;
+        padding: 30px;
+        background-color: #016972;
+    }
+    .buttonsuv button{
+        color: #016972;
+    }
+    .container-luxury{
+        width: 350px;
+        height: 550px;
+        padding: 30px;
+        background-color: #00403f;
+    }
+
+    .buttonluxury button{
+        color: #00403f;
+    }
