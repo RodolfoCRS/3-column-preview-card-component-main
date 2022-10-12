@@ -90,7 +90,7 @@ button:hover{
     border-bottom-left-radius: 5px;
     width: 300px;
     height: 450px;
-    background-color: hsl(31, 77%, 52%) !important;
+    background-color: rgb#E38826;
 
 }
 
@@ -98,14 +98,14 @@ button:hover{
 #containersuv{
     width: 300px;
     height: 450px;
-    background-color: hsl(184, 100%, 22%) !important;
+    background-color: #006970;
 }
 
 /* Container luxury (Tamanho, posição e cor) */
 #containerluxury{
     width: 300px;
     height: 450px;
-    background-color: hsl(179, 100%, 13%) !important;
+    background-color: #004241;
 }
 
 /* Botão suv (Fonte e cor) */
