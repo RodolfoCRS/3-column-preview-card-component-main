@@ -103,6 +103,8 @@ button:hover{
 
 /* Container luxury (Tamanho, posição e cor) */
 #containerluxury{
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
     width: 300px;
     height: 450px;
     background-color: #004241;
